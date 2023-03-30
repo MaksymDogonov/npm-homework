@@ -1,0 +1,31 @@
+{
+  "name": "npm-homework",
+  "version": "1.0.0",
+  "description": "hw14 npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "hw14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymDogonov/npm-homework.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "Dohonov Maksym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymDogonov/npm-homework/issues"
+  },
+  "homepage": "https://github.com/MaksymDogonov/npm-homework#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "^2.8.7"
+  }
+}
